@@ -1,0 +1,9 @@
+// ==UserScript==
+// @name        <script-name>
+// @description <script-purpose>
+// @match       <url-regex>
+// @author      <author-github-page>
+// @repo        https://github.com/andersonbosa/violentScripts
+// ==/UserScript==
+
+// Use as example to start some script :D
